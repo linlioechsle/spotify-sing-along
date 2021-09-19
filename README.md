@@ -16,7 +16,9 @@ A general framework of my project would be to create an application that connect
 Link to the project: <https://github.com/linlioechsle/spotify-sing-along>
 
 ***Building***
-- Clone into your IDE. Must have JDK 16.
+- Clone into your IDE (IntelliJ is ideal). You must have JDK 16.
+- I have already set up the Maven dependency for the Spotify Web API Java wrapper, so once you clone the project you should be able to use the wrapper's commands and add your Spotify account credentials.
+- 
 
 ## Required Resources
 - Spotify Java Wrapper: <https://github.com/spotify-web-api-java/spotify-web-api-java>
