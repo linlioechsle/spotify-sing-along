@@ -15,12 +15,9 @@ A general framework of my project would be to create an application that connect
 ## Background
 Link to the project: <https://github.com/linlioechsle/spotify-sing-along>
 
-
 ***Building***
-- Clone into your IDE.
-
-**Running**
-- 
+- Clone into your IDE. Must have JDK 16.
 
 ## Required Resources
 - Spotify Java Wrapper: <https://github.com/spotify-web-api-java/spotify-web-api-java>
+- May require a Spotify Premium account in order to properly test the program
