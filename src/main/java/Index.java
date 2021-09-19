@@ -8,9 +8,10 @@ import org.apache.hc.core5.http.ParseException;
 
 public class Index {
     public static void main(String[] arg) {
-        // find your access token and connect your account
         SpotifyApi spotifyApi = new SpotifyApi.Builder()
-                .setAccessToken("[your account token goes here]")
+                .setClientId("<your_client_id>")
+                .setClientSecret("<your_client_secret>")
+                .setRedirectUri("<your_redirect_uri>")
                 .build();
 
         System.out.println("Hello world!");
