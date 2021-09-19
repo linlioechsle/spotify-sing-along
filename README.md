@@ -20,6 +20,7 @@ Link to the project: <https://github.com/linlioechsle/spotify-sing-along>
 - I have already set up the Maven dependency for the Spotify Web API Java wrapper, so once you clone the project you should be able to use the wrapper's commands and add your Spotify account credentials.
 - In order to get your Spotify developer credentials to connect your account, visit <https://developer.spotify.com/dashboard/login> and log in. From there, you will have to create a new app (you can call it whatever you want, I named mine "test").
 - When you have created your new app, clicking on it will take you to a page where you will be able to find your Client ID and Client Secret.
+- Copy the client credentials into the corresponding spaces in Index.java.
 - At this point, your local project should be connected with Spotify's developer site.
 
 ## Required Resources
