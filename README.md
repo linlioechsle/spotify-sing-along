@@ -26,3 +26,4 @@ Link to the project: <https://github.com/linlioechsle/spotify-sing-along>
 ## Required Resources
 - Spotify Java Wrapper: <https://github.com/spotify-web-api-java/spotify-web-api-java>
 - You will need a Premium Spotify account in order to have full access and capability for testing this project. You will also need to connect your account with the Spotify Developer website.
+- Knowledge of Java and Java GUIs is helpful.
