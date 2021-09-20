@@ -2,7 +2,7 @@
 Lyrics app for Spotify Desktop
 
 ## Project Abstract
-I would like to create an open-source application for desktop that is connected with Spotify that automatically detects what song is currently being played and provides the lyrics for that song. There will be a small external window that appears that presents the lyrics in a scrolling fashion in time with the song, and there will be an option to have the window float above all other windows so that the lyrics will be visible no matter what the user is doing on his or her computer. There could also potentially be other features within the application which provide biographical information about the artist, or even provide the lyric annotations that are featured on lyric websites like Genius.
+I would like to create an open-source application for desktop that is connected with Spotify that automatically detects what song is currently being played and provides the lyrics for that song. This application would run locally on the user’s machine. There will be a small external window that appears that presents the lyrics in a scrolling fashion in time with the song, and there will be an option to have the window float above all other windows so that the lyrics will be visible no matter what the user is doing on his or her computer. There could also potentially be other features within the application which provide biographical information about the artist, or even provide the lyric annotations that are featured on lyric websites like Genius.
 
 ![Use Case Image](Spotify_Sing_Along_Use_Case.png)
 
